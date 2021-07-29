@@ -1,5 +1,15 @@
 {
-    "cabinet": "Q107615723",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/somalia-cabinet"
+    "cabinet": {
+      "id": "Q107615723",
+      "start": "2020-10-24"
+    },
+    "source": {
+        "url":   "https://opm.gov.so/en/cabinet",
+        "title": "Cabinet – Office of the Prime Minister of Somalia",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/somalia-cabinet"
 }
