@@ -8,7 +8,7 @@ class MemberList
   # details for an individual member
   class Member < Scraped::HTML
     field :name do
-      tds.last.text.tidy
+      tds.last.text.tidy.delete_prefix('Eng. ')
     end
 
     field :position do
