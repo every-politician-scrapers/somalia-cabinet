@@ -1,0 +1,151 @@
+{
+  "title": "Mohamed Mursal Sheikh Abdurahman",
+  "pageID": 34120224,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Speakers of the Transitional Federal Parliament",
+    "Government ministers of Somalia",
+    "People from Bay, Somalia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohamed Mursal Sheikh Abdurahman (Maxamed Mursal Sheikh Cabduraxman) is speaker of the Somali parliament, who was elected on 30 April 2018.",
+              "formatting": {
+                "bold": [
+                  "Mohamed Mursal Sheikh Abdurahman"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as Minister of Defence (Somalia) as well as Minister of Energy and Water Resources, Minister of National Assets and Public Procurement deputy district commissioner of Baidoa District of Somalia, and member of the Transitional Federal Parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Defence (Somalia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Transitional Federal Parliament"
+                }
+              ]
+            },
+            {
+              "text": "He was also the Ambassador of the Somali Federal Republic to the Republic of Turkey."
+            },
+            {
+              "text": "He was born in Baidoa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Baidoa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On December 12, 2018, it was reported that Mursal had relocated from his residence inside Villa Somalia, to a house near the airport as disputes with his deputies over impeachment of President Mohamed Farmaajo and the fate of the House Budget Committee continued."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mohamed Mursal Sheikh Abdurahman"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "office": {
+            "text": "12th Speaker of the Somali Parliament",
+            "links": [
+              {
+                "text": "Somali Parliament",
+                "type": "internal",
+                "page": "Federal Parliament of Somalia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 May 2018"
+          },
+          "predecessor": {
+            "text": "Mohamed Osman Jawari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamed Osman Jawari"
+              }
+            ]
+          },
+          "image": {
+            "text": "Mohamed Mursal Abdirahman - 2021 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Mohamed Mursal Sheikh Abdurahman in 2021"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Somali Deputy Prime Minister in Aden",
+          "url": "http://www.sabanews.net/en/news205217.htm",
+          "publisher": "Saba News Agency",
+          "date": "7 February 2010",
+          "accessdate": "22 December 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://goobjoog.com/english/breaking-speaker-mursal-relocates-from-villa-somalia/",
+          "title": "BREAKING: Speaker Mursal relocates from Villa Somalia",
+          "date": "Dec 12, 2018",
+          "accessdate": "Oct 27, 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "speakers of somali parliament"
+        },
+        {
+          "template": "somalia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
