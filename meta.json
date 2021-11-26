@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+      "name": "Somalia",
+      "id": "Q1045"
+    },
     "cabinet": {
       "id": "Q107615723",
-      "start": "2020-10-24"
+      "start": "2020-10-24",
+      "parent": "Q7559139"
     },
     "source": {
         "url":   "https://opm.gov.so/en/cabinet",
