@@ -42,9 +42,11 @@
                   "page": "Somalia"
                 },
                 {
-                  "text": "Meheri",
-                  "type": "internal",
-                  "page": ":so:Meheri"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "so"
+                  }
                 }
               ]
             },
