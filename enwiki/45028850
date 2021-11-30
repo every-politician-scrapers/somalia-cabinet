@@ -42,11 +42,9 @@
                   "page": "Somalia"
                 },
                 {
-                  "type": "interwiki",
-                  "wiki": {
-                    "wiki": "",
-                    "lang": "so"
-                  }
+                  "text": "Meheri",
+                  "type": "internal",
+                  "page": ":so:Meheri"
                 }
               ]
             },
@@ -300,37 +298,6 @@
           "accessdate": "28 January 2015",
           "template": "citation",
           "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Abdulkadir Abdi Hashi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdulkadir Abdi Hashi"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
         }
       ]
     }

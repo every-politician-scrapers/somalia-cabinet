@@ -131,21 +131,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "speakers of somali parliament"
-        },
-        {
-          "template": "somalia-politician-stub"
-        }
-      ]
     }
   ]
 }
