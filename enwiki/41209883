@@ -68,16 +68,23 @@
             ]
           },
           "president": {
-            "text": "Hassan Sheikh Mohamud",
+            "text": "Hassan Sheikh Mohamud Mohamed Abdullahi Farmajo",
             "links": [
               {
                 "type": "internal",
                 "page": "Hassan Sheikh Mohamud"
+              },
+              {
+                "type": "internal",
+                "page": "Mohamed Abdullahi Farmajo"
               }
             ]
           },
           "term_start": {
             "text": "27 November 2013"
+          },
+          "term_end": {
+            "text": "4 April 2019"
           },
           "predecessor": {
             "text": "Yussur A.F. Abrar",
@@ -87,6 +94,9 @@
                 "page": "Yussur A.F. Abrar"
               }
             ]
+          },
+          "successor": {
+            "text": "Abdirahman Mohamed Abdullahi"
           },
           "president2": {
             "text": "Abdullahi Yusuf Ahmed Sharif Sheikh Ahmed",
