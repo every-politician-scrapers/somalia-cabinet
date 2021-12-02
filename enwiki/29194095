@@ -28,33 +28,20 @@
         {
           "sentences": [
             {
-              "text": "Mohamed Abdullahi Mohamed (Maxaamed Cabdullaahii Maxaamed, محمد عبدالله محمد; born 11 March 1962), also known as Farmaajo, is a Somali politician who is the founder and chairman of the Tayo party.",
-              "formatting": {
-                "bold": [
-                  "Mohamed Abdullahi Mohamed",
-                  "Farmaajo"
-                ]
-              }
-            },
-            {
-              "text": "He was prime minister of Somalia for six months, from November 2010 until June 2011.",
-              "links": [
-                {
-                  "text": "prime minister of Somalia",
-                  "type": "internal",
-                  "page": "Prime Minister of Somalia"
-                }
-              ]
-            },
-            {
-              "text": "He served a term as president of Somalia from 16 February 2017, and has been acting president since 8 February 2021.",
+              "text": "Mohamed Abdullahi Mohamed (Maxaamed Cabdullaahii Maxaamed, محمد عبدالله محمد; born 11 March 1962), also known as Farmaajo, is a Somali politician who has served a term as president of Somalia from 16 February 2017 and has been acting president since 8 February 2021.",
               "links": [
                 {
                   "text": "president of Somalia",
                   "type": "internal",
                   "page": "president of Somalia"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohamed Abdullahi Mohamed",
+                  "Farmaajo"
+                ]
+              }
             },
             {
               "text": "Since the expiration of his original term, the federal member states of Puntland and Jubaland no longer recognise Mohamed as the president of Somalia,   but they eventually came to agreement on holding elections.",
@@ -73,13 +60,26 @@
                   "page": "2021 Somali presidential election"
                 }
               ]
+            },
+            {
+              "text": "He was prime minister of Somalia for six months, from November 2010 to June 2011.",
+              "links": [
+                {
+                  "text": "prime minister of Somalia",
+                  "type": "internal",
+                  "page": "Prime Minister of Somalia"
+                }
+              ]
+            },
+            {
+              "text": "Mohamed is the founder and chairman of the Tayo party."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "Somali politician",
+          "description": "President of Somalia since 2017",
           "template": "short description"
         },
         {
