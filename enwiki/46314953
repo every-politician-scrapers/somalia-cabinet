@@ -97,7 +97,7 @@
             "text": "Present"
           },
           "birth_place": {
-            "text": "Dhahar, Sanaag, Somalia",
+            "text": "Dhahar, Sanaag, Somaliland",
             "links": [
               {
                 "type": "internal",
@@ -109,7 +109,7 @@
               },
               {
                 "type": "internal",
-                "page": "Somalia"
+                "page": "Somaliland"
               }
             ]
           },
