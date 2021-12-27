@@ -46,6 +46,12 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "birth_year": "1987",
+          "template": "birth year and age"
+        }
+      ],
       "infoboxes": [
         {
           "image": {
@@ -55,8 +61,7 @@
             "text": "Odowaa Yusuf Rageh"
           },
           "birth_date": {
-            "text": "1987",
-            "number": 1987
+            "text": "1987 (age 34)"
           },
           "birth_place": {
             "text": "Adan Yabaal, Middle Shabelle, Somalia",
