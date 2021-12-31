@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Brigadier General Odowaa Yusuf Rageh (Odowaa Yuusuf Raageh) is a Somali military general.",
+              "text": "Brigadier General Odowaa Yusuf Rageh (Odowaa Yuusuf Raage) is a Somali military general.",
               "links": [
                 {
                   "text": "Somali",
@@ -54,11 +54,14 @@
       ],
       "infoboxes": [
         {
-          "image": {
-            "text": "2019 03 28 International Humanitarian Law-9.jpg"
-          },
           "name": {
             "text": "Odowaa Yusuf Rageh"
+          },
+          "image": {
+            "text": "Odowaa Yusuf Rageh - 2021 (cropped).jpg"
+          },
+          "caption": {
+            "text": "General Rageh in 2021"
           },
           "birth_date": {
             "text": "1987 (age 34)"
@@ -81,9 +84,6 @@
               }
             ]
           },
-          "caption": {
-            "text": "General Rageh in 2019"
-          },
           "allegiance": {
             "text": "🇸🇴 Federal Government of Somalia",
             "links": [
@@ -99,7 +99,7 @@
             ]
           },
           "serviceyears": {
-            "text": "2007 - Present"
+            "text": "2007–present"
           },
           "branch": {
             "text": "Somali National Army",

@@ -77,6 +77,9 @@
           "term_start": {
             "text": "23 September 2020"
           },
+          "term_end": {
+            "text": "30 December 2021"
+          },
           "predecessor": {
             "text": "Hassan Ali Khaire",
             "links": [
@@ -85,6 +88,9 @@
                 "page": "Hassan Ali Khaire"
               }
             ]
+          },
+          "successor": {
+            "text": "Vacant"
           },
           "birth_date": {
             "text": "October 1963 (age 58)"
