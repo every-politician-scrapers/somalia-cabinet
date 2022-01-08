@@ -17,12 +17,11 @@
         {
           "sentences": [
             {
-              "text": "Mohamed Hussein Roble (Maxamed Xuseen Rooble; born October 1963) is a Somalian politician who served as the 20th Prime Minister of Somalia.",
+              "text": "Mohamed Hussein Roble (Maxamed Xuseen Rooble; born October 1963) is a Somali politician who is the 20th and current Prime Minister of Somalia.",
               "links": [
                 {
-                  "text": "Somalian",
                   "type": "internal",
-                  "page": "Somalis"
+                  "page": "Somali"
                 },
                 {
                   "text": "politician",
@@ -42,7 +41,13 @@
               }
             },
             {
-              "text": "in December 2021 he is running for president of Somalia"
+              "text": "in December 2021 he planned on running for president of Somalia, but was suspended by the president Mohamed Abdullahi Mohamed which has been condemned by the international community.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohamed Abdullahi Mohamed"
+                }
+              ]
             }
           ]
         }
@@ -95,9 +100,6 @@
                 "page": "Hassan Ali Khaire"
               }
             ]
-          },
-          "successor": {
-            "text": "Vacant"
           },
           "birth_date": {
             "text": "October 1963 (age 59)"
