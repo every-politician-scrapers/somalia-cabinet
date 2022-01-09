@@ -17,21 +17,17 @@
         {
           "sentences": [
             {
-              "text": "Mohamed Hussein Roble (Maxamed Xuseen Rooble; born October 1963) is a Somali politician who is the 20th and current Prime Minister of Somalia.",
+              "text": "Mohamed Hussein Roble (Maxamed Xuseen Rooble; born October 1963) is a Somali politician is the  current Prime minister and de facto head of state in Somalia.",
               "links": [
                 {
+                  "text": "Somali",
                   "type": "internal",
-                  "page": "Somali"
+                  "page": "Somalis"
                 },
                 {
                   "text": "politician",
                   "type": "internal",
                   "page": "politician"
-                },
-                {
-                  "text": "Prime Minister of Somalia",
-                  "type": "internal",
-                  "page": "List of prime ministers of Somalia"
                 }
               ],
               "formatting": {
@@ -41,7 +37,7 @@
               }
             },
             {
-              "text": "in December 2021 he planned on running for president of Somalia, but was suspended by the president Mohamed Abdullahi Mohamed which has been condemned by the international community.",
+              "text": "He was suspended by the former president Mohamed Abdullahi Mohamed which has been condemned by the international community and the federal states of Puntland and Jubaland.",
               "links": [
                 {
                   "type": "internal",
