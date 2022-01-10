@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Mohamed Hussein Roble (Maxamed Xuseen Rooble; born October 1963) is a Somali politician is the  current Prime minister and de facto head of state in Somalia.",
+              "text": "Mohamed Hussein Roble (Maxamed Xuseen Rooble; born October 1963) is a Somali politician and the current prime minister of Somalia since 23 September 2020.",
               "links": [
                 {
                   "text": "Somali",
@@ -35,15 +35,6 @@
                   "Mohamed Hussein Roble"
                 ]
               }
-            },
-            {
-              "text": "He was suspended by the former president Mohamed Abdullahi Mohamed which has been condemned by the international community and the federal states of Puntland and Jubaland.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mohamed Abdullahi Mohamed"
-                }
-              ]
             }
           ]
         }
@@ -134,6 +125,29 @@
                 "text": "MEng",
                 "type": "internal",
                 "page": "Master of Engineering"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "Somali Swedish",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Somali"
+              },
+              {
+                "type": "internal",
+                "page": "Swedish"
               }
             ]
           }
