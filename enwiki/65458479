@@ -142,12 +142,14 @@
             "text": "Somali Swedish",
             "links": [
               {
+                "text": "Somali",
                 "type": "internal",
-                "page": "Somali"
+                "page": "Somalis"
               },
               {
+                "text": "Swedish",
                 "type": "internal",
-                "page": "Swedish"
+                "page": "Swedes"
               }
             ]
           }
