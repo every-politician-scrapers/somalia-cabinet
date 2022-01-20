@@ -45,6 +45,9 @@
           "template": "short description"
         },
         {
+          "template": "patronymic name"
+        },
+        {
           "birth_year": "1963",
           "birth_month": "10",
           "template": "birth year and age"
