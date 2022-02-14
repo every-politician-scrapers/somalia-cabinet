@@ -64,6 +64,10 @@
       ],
       "templates": [
         {
+          "description": "Somali politician",
+          "template": "short description"
+        },
+        {
           "age": "58",
           "year": "2014",
           "month": "01",
@@ -74,7 +78,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Dr Abdirahman Duale Beyle"
+            "text": "Abdirahman Duale Beyle"
           },
           "honorific-suffix": {
             "text": "MP",
