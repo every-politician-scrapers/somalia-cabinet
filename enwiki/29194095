@@ -241,11 +241,11 @@
             ]
           },
           "education": {
-            "text": "State University of New York at Buffalo (BA, MA)",
+            "text": "University at Buffalo (BA, MA)",
             "links": [
               {
                 "type": "internal",
-                "page": "State University of New York at Buffalo"
+                "page": "University at Buffalo"
               },
               {
                 "text": "BA",
