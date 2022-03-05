@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Mohamed Hussein Roble (Maxamed Xuseen Rooble; born October 1963) is a Somali politician and the prime minister of Somalia since 23 September 2020.",
+              "text": "Mohamed Hussein Roble (Maxamed Xuseen Rooble; born February 1968) is a Somali politician and the prime minister of Somalia since 23 September 2020.",
               "links": [
                 {
                   "text": "Somali",
@@ -41,15 +41,15 @@
       ],
       "templates": [
         {
-          "description": "Prime Minister of Somalia (born 1963)",
+          "description": "Prime Minister of Somalia (born 1968)",
           "template": "short description"
         },
         {
           "template": "patronymic name"
         },
         {
-          "birth_year": "1963",
-          "birth_month": "10",
+          "birth_year": "1968",
+          "birth_month": "02",
           "template": "birth year and age"
         }
       ],
@@ -92,7 +92,7 @@
             ]
           },
           "birth_date": {
-            "text": "October 1963 (age 59)"
+            "text": "February 1968 (age 54)"
           },
           "birth_place": {
             "text": "Hobyo, Somalia",
