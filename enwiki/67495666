@@ -1,76 +1,9 @@
 {
-  "title": "Hanifa Mohamed Ibrahim",
-  "pageID": 67495666,
-  "categories": [
-    "1991 births",
-    "Living people",
-    "Somalian politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Haniifa Mohamed Ibrahim (born 25 June 1991) is a Somalian Minister of Women and Human Rights Development.",
-              "links": [
-                {
-                  "text": "Somalian",
-                  "type": "internal",
-                  "page": "Somalia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Haniifa Mohamed Ibrahim"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1991",
-          "month": "06",
-          "day": "25",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Haniifa Mohamed Ibrahim"
-          },
-          "image": {
-            "text": "Haniifa Mohamed Ibrahim - 2021 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Haniifa Mohamed Ibrahim in 2021"
-          },
-          "birth_date": {
-            "text": "June 25, 1991"
-          },
-          "known_for": {
-            "text": "Minister of Women and Human Rights Development"
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "nationality": {
-            "text": "Somalia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Somalia"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Haniifa Mohamed Ibrahim",
+  "image": "Haniifa Mohamed Ibrahim - 2021 (cropped).jpg",
+  "caption": "Haniifa Mohamed Ibrahim in 2021",
+  "birth_date": "June 25, 1991",
+  "known_for": "Minister of Women and Human Rights Development",
+  "occupation": "Politician",
+  "nationality": "Somalia"
 }
