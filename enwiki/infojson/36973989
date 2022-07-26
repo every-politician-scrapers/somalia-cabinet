@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "Peace and Development Party"
+      ],
+      "stated_as": "Leader of the Peace and Development Party"
+    },
+    "P580": "2011-04-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2016-12-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ahmed Ali"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Somalia"
+      ],
+      "stated_as": "8th and 10th President of Somalia"
+    },
+    "P580": "2012-09-16",
+    "P1365": {
+      "links": [
+        "Mohamed Osman Jawari"
+      ],
+      "stated_as": "Mohamed Osman Jawari (acting)"
+    },
+    "P582": "2017-02-16",
+    "P1366": {
+      "links": [
+        "Mohamed Abdullahi Mohamed"
+      ],
+      "stated_as": "Mohamed Abdullahi Mohamed"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Union for Peace and Development Party"
+      ],
+      "stated_as": "Leader of the Union for Peace and Development Party"
+    },
+    "P580": "2018-10-04"
+  },
+  {
+    "office": {
+      "links": [
+        "President of Somalia"
+      ],
+      "stated_as": "8th and 10th President of Somalia"
+    },
+    "P580": "2022-05-23",
+    "P1365": {
+      "links": [
+        "Mohamed Abdullahi Mohamed"
+      ],
+      "stated_as": "Mohamed Abdullahi Mohamed"
+    }
+  }
+]

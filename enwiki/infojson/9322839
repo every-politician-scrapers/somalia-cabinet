@@ -1,0 +1,68 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of speakers of the Parliament of Somalia"
+      ],
+      "stated_as": "10th Speaker of the Parliament of Somalia"
+    },
+    "P580": "2007-01-31",
+    "P1365": {
+      "links": [
+        "Sharif Hassan Sheikh Aden"
+      ],
+      "stated_as": "Sharif Hassan Sheikh Aden"
+    },
+    "P582": "2010-05-25",
+    "P1366": {
+      "links": [
+        "Sharif Hassan Sheikh Aden"
+      ],
+      "stated_as": "Sharif Hassan Sheikh Aden"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Somalia"
+      ],
+      "stated_as": "Acting President of Somalia"
+    },
+    "P580": "2008-12-29",
+    "P1365": {
+      "links": [
+        "Abdullahi Yusuf Ahmed"
+      ],
+      "stated_as": "Abdullahi Yusuf Ahmed"
+    },
+    "P582": "2009-01-31",
+    "P1366": {
+      "links": [
+        "Sharif Sheikh Ahmed"
+      ],
+      "stated_as": "Sharif Sheikh Ahmed"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Industry and Trade (Somalia)"
+      ],
+      "stated_as": "Minister of Commerce and Industry"
+    },
+    "P580": "2014-01-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mohamud Ahmed Hassan"
+    },
+    "P582": "2015-01-12",
+    "P1366": {
+      "links": [
+        "Abdirahman Abdi Osman"
+      ],
+      "stated_as": "Abdirahman Abdi Osman"
+    }
+  }
+]
