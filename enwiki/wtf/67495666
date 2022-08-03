@@ -1,0 +1,179 @@
+{
+  "title": "Hanifa Mohamed Ibrahim",
+  "pageID": 67495666,
+  "categories": [
+    "1991 births",
+    "Living people",
+    "Somalian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Haniifa Mohamed Ibrahim (born 25 June 1991) is a Somalian Minister of Women and Human Rights Development.",
+              "links": [
+                {
+                  "text": "Somalian",
+                  "type": "internal",
+                  "page": "Somalia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Haniifa Mohamed Ibrahim"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1991",
+          "month": "06",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Haniifa Mohamed Ibrahim"
+          },
+          "image": {
+            "text": "Haniifa Mohamed Ibrahim - 2021 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Haniifa Mohamed Ibrahim in 2021"
+          },
+          "birth_date": {
+            "text": "June 25, 1991"
+          },
+          "known_for": {
+            "text": "Minister of Women and Human Rights Development"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "nationality": {
+            "text": "Somalia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Somalia"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She was born in 1991 and she became a member of Somalia's parliament."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2017 she was part of the 17 strong group of politicians drawn from Somalia's lower and upper houses of parliament whose task was to choose Somalia's president."
+            },
+            {
+              "text": "She became the Minister of Women and Human Rights Development under Prime Minister Abdihakin Ashkir in Somalia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdihakin Ashkir"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2021 she opened a centre in Mogadishu to support women."
+            },
+            {
+              "text": "This was in support of the target to get 30% women in politics."
+            },
+            {
+              "text": "In discussion with UN envoy James C. Swan she raised the issue of United Nations support for the 30% target in 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "James C. Swan"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Somali Federal Parliament",
+          "url": "http://golahashacabka.parliament.gov.so/legislator/en/showMembers.php?legID=277&lang=1",
+          "access-date": "2021-04-25",
+          "website": "golahashacabka.parliament.gov.so",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2017-01-25",
+          "title": "Somalia forms Presidential Election Committee",
+          "url": "https://goobjoog.com/english/somalia-forms-presidential-election-committee/",
+          "access-date": "2021-04-25",
+          "website": "Goobjoog News English",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Somalia",
+          "first": "UNSOM",
+          "title": "UN envoy James Swan Meeting with Minister of Women and Human Rights Development Her Excellency, Haniifa Mohamed Ibrahim - 26 January 2021",
+          "date": "2021-01-26",
+          "url": "https://www.flickr.com/photos/unsom/50877707157/",
+          "access-date": "2021-04-25",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "title": "Minister of Women and Human Development opens advocacy center in Mogadishu",
+          "url": "https://sonna.so/en/somalia-minster-of-women-and-human-development-opens-womens-quota-advocacy-center-at-30/",
+          "access-date": "2021-04-25",
+          "website": "Somali National News Agency",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "somalia-bio-stub"
+        }
+      ]
+    }
+  ]
+}
